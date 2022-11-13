@@ -1,0 +1,19 @@
+.card-shadow{
+    transition: box-shadow .3s;
+}
+
+.card-shadow:hover{
+    box-shadow: 1px 1px 15px #2121214b;
+}
+
+.promo-img{
+    max-width: 100%;
+    height: auto;
+}
+
+.card-img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin: 10px 0 15px 0;
+}
